@@ -1,0 +1,8 @@
+#特徴
+オブジェクト指向
+プログラム実行環境JVM(Java仮想マシン)が提供されている
+
+3つのEditionが存在する
+（１）JavaSE(JavaStandardEdition)
+（２）JavaEE(JavaEnterpriseEdition)
+（３）JavaME(JavaMicroEdition)
