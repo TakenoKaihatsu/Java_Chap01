@@ -1,5 +1,11 @@
 public class Hello{
 	public static void main(String[] args) {
-		System.out.println("Hello");
+		/*
+		 * コメントアウト
+		 */
+		
+		//コメントアウト
+		
+		/* 一部コメントアウト */ System.out.println("Hello");
 	}
 }
